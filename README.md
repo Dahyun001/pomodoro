@@ -90,4 +90,4 @@ GitHub Pages：`Settings → Pages → Deploy from a branch → main / (root)`�
 
 ---
 
-同系列：[亂碼救星 · TXT 編碼轉換](https://github.com/Dahyun001/txt-fix) · [Soul Reader 本地閱讀器](https://github.com/Dahyun001/soul-reader)
+同系列：[亂碼救星 · TXT 編碼轉換](https://github.com/Dahyun001/txt-fix) · [Soul Reader 本地 TXT 閱讀器](https://soul.wanderingsoul.duckdns.org)
