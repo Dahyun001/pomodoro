@@ -15,7 +15,7 @@
   <a href="#本機執行">本機執行</a>
 </p>
 
-![介面](screenshots/01-running.png)
+<img src="screenshots/01-running.png" width="330" alt="專注鐘介面：環形進度與倒數">
 
 ---
 
